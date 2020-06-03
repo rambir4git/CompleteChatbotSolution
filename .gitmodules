@@ -1,0 +1,9 @@
+[submodule "MekbotDemo"]
+	path = MekbotDemo
+	url = https://github.com/rambir4git/MekbotDemo.git
+[submodule "Rambirwebhook"]
+	path = Rambirwebhook
+	url = https://github.com/rambir4git/Rambirwebhook.git
+[submodule "Rambirchatbot"]
+	path = Rambirchatbot
+	url = https://github.com/rambir4git/Rambirchatbot.git
